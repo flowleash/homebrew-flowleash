@@ -7,5 +7,7 @@ cask "hb-studio" do
   desc "Local studio for writing and running hb flows with your own Claude Code"
   homepage "https://github.com/flowleash/homebrew-flowleash"
 
+  depends_on :macos
+
   app "HB Studio.app"
 end
