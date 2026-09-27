@@ -1,6 +1,6 @@
 cask "hb-studio" do
-  version "0.2.0"
-  sha256 "2e5e5f9212ac2508bc4bd334fc748d9ac76eac4366af7e67c77d2d5ecfe21b46"
+  version "0.3.0"
+  sha256 "5eec0a4080b5ddb0459faf4b98f0d551f7e74ac8aea0f5f0d9095034f937e68b"
 
   url "https://github.com/flowleash/homebrew-flowleash/releases/download/v#{version}/HB-Studio-macos.zip"
   name "HB Studio"
