@@ -14,7 +14,7 @@ HB Studio 是一個流程工作室。用中文說出要做的事，電腦上的 
 
 打開「終端機」，貼上下面這行後按 Enter：
 
-```
+```sh
 curl -fsSL https://claude.ai/install.sh | bash
 ```
 
@@ -24,7 +24,7 @@ curl -fsSL https://claude.ai/install.sh | bash
 
 在終端機執行：
 
-```
+```sh
 brew install --cask flowleash/flowleash/hb-studio
 ```
 
@@ -51,7 +51,7 @@ HB Studio 目前還沒有經過 Apple 公證，第一次打開時 macOS 可能�
 
 熟悉終端機、想在自己的專案裡使用的人，可以只裝指令：
 
-```
+```sh
 brew install flowleash/flowleash/hb
 ```
 
