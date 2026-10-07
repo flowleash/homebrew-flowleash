@@ -1,9 +1,9 @@
 class Hb < Formula
   desc "Make your coding agent follow a flow it wrote, one checked step at a time"
   homepage "https://github.com/flowleash/homebrew-flowleash"
-  url "https://github.com/flowleash/homebrew-flowleash/releases/download/v0.8.25/hb-macos-universal.tar.gz"
-  version "0.8.25"
-  sha256 "d4786c2a31c08d56acb394c130e35c029e2c618bbb7185d479b138551ab472ef"
+  url "https://github.com/flowleash/homebrew-flowleash/releases/download/v0.8.26/hb-macos-universal.tar.gz"
+  version "0.8.26"
+  sha256 "1d4645d2a5bb090402d267eca6f3bc1f2cb3d335599ca5929425d6174a8f99f6"
 
   depends_on :macos
 
