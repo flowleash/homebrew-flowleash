@@ -1,6 +1,6 @@
 cask "hb-studio" do
-  version "0.8.46"
-  sha256 "fe355fba432eabf05dfadb37090b47302ba34f7dace60f924eb9f66d357ef7c4"
+  version "0.8.47"
+  sha256 "6fdd301b0fad89a0a03fd1eaa47b53c85b0ba15dad4a47d7718b09704c1d5285"
 
   url "https://github.com/flowleash/homebrew-flowleash/releases/download/v#{version}/FlowLeash-macos.zip"
   name "FlowLeash"
